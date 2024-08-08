@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_content_size">24sp</dimen>
+    <dimen name="tv_margin">50dp</dimen>
+
+    <dimen name="iv_width">100dp</dimen>
+    <dimen name="iv_height">100dp</dimen>
+    <dimen name="iv_margin">100dp</dimen>
+</resources>

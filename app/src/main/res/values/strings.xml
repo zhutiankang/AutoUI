@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">AutoUI</string>
+    <string name="tv_content">你好，世界!</string>
+</resources>

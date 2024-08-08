@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_title" type="id" />
+    <item name="tv_content" type="id" />
+    <item name="tv_margin" type="id" />
+
+
+
+    <item name="iv_image" type="id" />
+    <item name="iv_width" type="id" />
+    <item name="iv_height" type="id" />
+    <item name="iv_margin" type="id" />
+</resources>
