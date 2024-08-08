@@ -17,13 +17,11 @@
 * layout其他文件夹与values一样使用
 
 ## 常用命令：
-`
-adb shell dumpsys window displays
-adb shell wm size reset
-adb shell wm size
-adb shell wm size 1280x720
-adb shell wm density
-`
+* adb shell dumpsys window displays
+* adb shell wm size reset
+* adb shell wm size
+* adb shell wm size 1280x720
+* adb shell wm density
 
 ## 密度表
 * res/drawable-mdpi/：中等密度（160dpi）
